@@ -1,5 +1,5 @@
 function App() {
-  return <>H!</>;
+  return <>Hi</>;
 }
 
 export default App;
